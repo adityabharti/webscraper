@@ -1,2 +1,2 @@
 # webscraper
-Python web scraping
+Python library Scrapy for web scraping.
